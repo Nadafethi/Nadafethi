@@ -6,6 +6,12 @@
 
 I’m a dedicated Data Science and Web Developer with a passion for everything related to programming and computers. With three years of experience in the field, I specialize in creating robust and innovative software solutions. Currently, I'm expanding my skill set by learning Cyber Security to enhance my understanding of protecting digital environments.
 
+
+
+
+
+
+
 ## About Me:
 - 💻 **Profession:** Data Science & Web Developer
 - 🗓️ **Experience:** 3 years in the industry
