@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m a dedicated Software Engineer and Web Developer with a passion for everything related to programming and computers. With three years of experience in the field, I specialize in creating robust and innovative software solutions. Currently, I'm expanding my skill set by learning Cyber Security to enhance my understanding of protecting digital environments.
+I’m a dedicated Data Science and Web Developer with a passion for everything related to programming and computers. With three years of experience in the field, I specialize in creating robust and innovative software solutions. Currently, I'm expanding my skill set by learning Cyber Security to enhance my understanding of protecting digital environments.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fh.nada.3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nada-fethi-070701245/) 
