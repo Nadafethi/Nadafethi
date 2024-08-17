@@ -14,9 +14,10 @@ I’m a dedicated Data Science and Web Developer with a passion for everything r
 
 
 ## About Me:
-- 💻 **Profession:** Data Science & Web Developer
+- 👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.
+- 🎨 Frontend: Strong in HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, Next.js and React.js.
+- 🚀 Backend: Experience with Express.js, Node.js, and MongoDB, php.
 - 🗓️ **Experience:** 3 years in the industry
-- 🔍 **Currently Learning:** Cyber Security
 
 
 
