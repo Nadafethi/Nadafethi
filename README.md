@@ -2,14 +2,8 @@
 
 
 <img src="https://i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg" alt="Alt Text" width="400">
-
-<br/>
 <br/><br/>
 <br/><br/>
-
-
-
-
 
 ## About Me:
 - 👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.
