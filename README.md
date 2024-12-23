@@ -1,11 +1,8 @@
 ## Hi there, I'm Nada Fethi
 
 <p align="right">
-  <img src="https://i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg" alt="Alt Text" width="100">
-</p>
-
 <img src="https://i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg" alt="Alt Text" width="200">
-<br/><br/>
+</p>
 
 ## About Me:
 - 👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.
