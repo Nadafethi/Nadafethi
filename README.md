@@ -2,7 +2,8 @@
 
 
 
-<img  align="right" src="https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/7043879/IhZlBpUIyUasYuYE.jpg?Expires=1723218625&Signature=qquhTWpPyEfjBiwPpnt-Ddg0~ZbZEyOld~MMN7PIucEmFneOsTQO13j0q1stbOwOmD9R1z6MgdHqKA-5LDfBSuhLKDEQ2WvEudtMPJQgkpIXhARqzo1XTxJJXut8-Erx0j3VV2Nfvjfv5Bib~-elqy-XLo1H9kkCDiePZaOkN4lZm6ruJQ34S7hcilRpevzBs60C9WSLIIAuvKJrOVnVv0Lkv91G9j8fTyH5Pjdts9-No4khGn5KcHGh0Zm-wpKr-smq9R2Ua~dv8O5Uho7HLAG-VPJMSxjWJwafaQPxcfoR7RKsbTk~Mc4nYJaTLTBLhutEvf0G2a~eA2xsEDK3EA__&Key-Pair-Id=K3USGZIKWMDCSX"  width="200"/>
+<img  align="right" src="![WhatsApp Image 2024-07-26 à 01 45 38_dddb8d08](https://github.com/user-attachments/assets/b6554bfa-3132-4677-a153-b5ff899c7329)
+"  width="200"/>
 
 <br/>
 <br/><br/>
