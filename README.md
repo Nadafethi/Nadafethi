@@ -2,7 +2,7 @@
 
 
 
-<img  align="right" src="src="i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg" width="200"/>
+![Alt Text](https://i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg)
 
 <br/>
 <br/><br/>
