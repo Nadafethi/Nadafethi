@@ -2,8 +2,7 @@
 
 
 
-<img  align="right" src="![WhatsApp Image 2024-07-26 à 01 45 38_dddb8d08](https://github.com/user-attachments/assets/b6554bfa-3132-4677-a153-b5ff899c7329)
-"  width="200"/>
+<img  align="right" src="src="https://i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg" width="200"/>
 
 <br/>
 <br/><br/>
