@@ -1,8 +1,7 @@
 ## Hi there, I'm Nada Fethi
 
 
-<img src="https://i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg" alt="Alt Text" width="400">
-<br/><br/>
+<img src="https://i.pinimg.com/736x/22/89/ef/2289ef379679c2de8964a42053c172e6.jpg" alt="Alt Text" width="200">
 <br/><br/>
 
 ## About Me:
